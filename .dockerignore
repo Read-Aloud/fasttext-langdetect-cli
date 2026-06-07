@@ -1,0 +1,5 @@
+fasttext
+.git
+*.tar
+*.tar.gz
+build/
